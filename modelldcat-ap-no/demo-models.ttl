@@ -48,8 +48,8 @@
    dct:identifier "https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel1"^^xsd:anyURI;
    dcat:contactPoint <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#digdir-contact-point>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
-   dcat:keyword """demo"""@en,
-       """demo"""@nb,
+   dcat:keyword """test"""@en,
+       """test"""@nb,
        """model"""@en,
        """modell"""@nb,
        """information model"""@en,
@@ -75,8 +75,8 @@
    dct:identifier "https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel2"^^xsd:anyURI;
    dcat:contactPoint <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#digdir-contact-point>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
-   dcat:keyword """demo"""@en,
-       """demo"""@nb,
+   dcat:keyword """test"""@en,
+       """test"""@nb,
        """model"""@en,
        """modell"""@nb,
        """information model"""@en,
@@ -100,8 +100,8 @@
    dct:identifier "https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel3"^^xsd:anyURI;
    dcat:contactPoint <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#digdir-contact-point>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
-   dcat:keyword """demo"""@en,
-       """demo"""@nb,
+   dcat:keyword """test"""@en,
+       """test"""@nb,
        """model"""@en,
        """modell"""@nb,
        """information model"""@en,
@@ -125,8 +125,8 @@
    dct:identifier "https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#demomodel4"^^xsd:anyURI;
    dcat:contactPoint <https://github.com/jimjyang/testbed/tree/main/modelldcat-ap-no/demo-models.ttl#digdir-contact-point>;
    dct:license <http://publications.europa.eu/resource/authority/licence/CC0>;
-   dcat:keyword """demo"""@en,
-       """demo"""@nb,
+   dcat:keyword """test"""@en,
+       """test"""@nb,
        """model"""@en,
        """modell"""@nb,
        """information model"""@en,
@@ -188,4 +188,4 @@
    rdfs:seeAlso <https://jimjyang.github.io/showroom/modelldcat-ap-no/images/demomodel4.png>;
    .
  
-#### End of the file, 2023-06-21 12:55:45
+#### End of the file, 2023-06-21 13:12:48
