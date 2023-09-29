@@ -17,10 +17,11 @@
    dct:description """This catalog contains test models created by Jim at the Norwegian Digitalisation Agency (Digdir)."""@en,
        """Katalogen inneholder testmodeller opprettet av Jim ved Digitaliseringsdirektoratet (Digdir)."""@nb;
    dct:identifier "https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttlcatalog-of-demo-models"^^xsd:anyURI;
-   modelldcatno:model <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel1>,
-       <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel2>,
-       <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel3>,
-       <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel4>;
+### modellene "slettes" når egenskapen ikke brukes i denne eksisterende katalog:
+### modelldcatno:model <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel1>,
+###       <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel2>,
+###       <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel3>,
+###       <https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttldemomodel4>;
    dct:title """Jim's catalog of test models"""@en,
        """Jim sin katalog over testmodeller"""@nb;
    dct:publisher <https://organization-catalog.fellesdatakatalog.digdir.no/organizations/991825827>;
