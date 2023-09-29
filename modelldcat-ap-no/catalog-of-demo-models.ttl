@@ -12,7 +12,7 @@
 @prefix vcard: <http://www.w3.org/2006/vcard/ns#> . 
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> . 
 
-<https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttlcatalog-of-demo-models>
+<https://raw.githubusercontent.com/jimjyang/testbed/main/modelldcat-ap-no/catalog-of-demo-models.ttl#catalog-of-demo-models>
    rdf:type dcat:Catalog;
    dct:description """This catalog contains test models created by Jim at the Norwegian Digitalisation Agency (Digdir)."""@en,
        """Katalogen inneholder testmodeller opprettet av Jim ved Digitaliseringsdirektoratet (Digdir)."""@nb;
