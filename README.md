@@ -1,5 +1,5 @@
 # testbed
 
-Jim's testved, for various tests
+Jim's testbed, for various tests
 
-\ [_Digitaliseringsdirektoratet / Norwegian Digitalisation Agency_](https://digdir.no)
+\ [_Jim J. Yang_](https://www.linkedin.com/in/jimjyang/)
